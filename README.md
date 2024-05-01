@@ -247,6 +247,7 @@ This is a backend of chat app inspired by Slack using .Net 8 ASP.NET MVC and Sig
       + `Join', roomName: string` - Join room
       + `onRoomDeleted` - Receive message when room is deleted
       + `newMessage`, return `message: Message` - Receive new message
+      + `removeChatMessage`, return `id: number` - Receive the id of deleted message
 
 ## Installation
 - Clone this repository
