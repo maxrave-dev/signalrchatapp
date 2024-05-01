@@ -106,4 +106,9 @@
     <Folder Include="wwwroot\uploads\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Data\Migrations\20201010142857_Initial.cs" />
+    <Compile Remove="Data\Migrations\20201010142857_Initial.Designer.cs" />
+  </ItemGroup>
+
 </Project>

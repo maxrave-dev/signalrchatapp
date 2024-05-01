@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xoSs/EBFoGjYTLWHA/As3dATffFW8QWBJcZDHeYHUn4=",
+  "Hash": "AO+cPZhCLRWHsnhdhoxzC2vGwl/nDoAkkL859t2jC34=",
   "Source": "Chat.Web",
   "BasePath": "_content/Chat.Web",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Chat.Web/wwwroot",
       "Source": "Chat.Web",
-      "ContentRoot": "/home/maxrave/RiderProjects/SignalR-Chat/src/Chat.Web/wwwroot/",
+      "ContentRoot": "/home/maxrave/Project/SignalR-Chat/src/Chat.Web/wwwroot/",
       "BasePath": "_content/Chat.Web",
       "Pattern": "**"
     }
@@ -1155,6 +1155,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/maxrave/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.0/staticwebassets/V5/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/home/maxrave/Project/SignalR-Chat/src/Chat.Web/wwwroot/uploads/202445300429_Chụp màn hình từ 2024-04-26 08-53-43.png",
+      "SourceId": "Chat.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/maxrave/Project/SignalR-Chat/src/Chat.Web/wwwroot/",
+      "BasePath": "_content/Chat.Web",
+      "RelativePath": "uploads/202445300429_Chụp màn hình từ 2024-04-26 08-53-43.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/202445300429_Chụp màn hình từ 2024-04-26 08-53-43.png"
     }
   ]
 }

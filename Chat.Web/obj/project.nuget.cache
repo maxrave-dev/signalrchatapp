@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vp8veoeBj1bqziHERjMi9ERRiv7HW8OZVX7BYZ3fEv1lphhEIsaCE4hAZl5mCiQYMGsd/u6qDOjUnQsVJpT9+w==",
+  "dgSpecHash": "syQ6KU5AaASK0U0JCohI2nyqUahOTj+LAbrByC5GEBplMLjti2CU7zLSDvpAaKVD2v2vKRXKScgcnWZYI4xzGQ==",
   "success": true,
-  "projectFilePath": "/home/maxrave/RiderProjects/SignalR-Chat/src/Chat.Web/Chat.Web.csproj",
+  "projectFilePath": "/home/maxrave/Project/SignalR-Chat/src/Chat.Web/Chat.Web.csproj",
   "expectedPackageFiles": [
     "/home/maxrave/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
     "/home/maxrave/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

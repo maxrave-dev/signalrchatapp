@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/maxrave/RiderProjects/SignalR-Chat/src/Chat.Web/Chat.Web.csproj": {}
+    "/home/maxrave/Project/SignalR-Chat/src/Chat.Web/Chat.Web.csproj": {}
   },
   "projects": {
-    "/home/maxrave/RiderProjects/SignalR-Chat/src/Chat.Web/Chat.Web.csproj": {
+    "/home/maxrave/Project/SignalR-Chat/src/Chat.Web/Chat.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/maxrave/RiderProjects/SignalR-Chat/src/Chat.Web/Chat.Web.csproj",
+        "projectUniqueName": "/home/maxrave/Project/SignalR-Chat/src/Chat.Web/Chat.Web.csproj",
         "projectName": "Chat.Web",
-        "projectPath": "/home/maxrave/RiderProjects/SignalR-Chat/src/Chat.Web/Chat.Web.csproj",
+        "projectPath": "/home/maxrave/Project/SignalR-Chat/src/Chat.Web/Chat.Web.csproj",
         "packagesPath": "/home/maxrave/.nuget/packages/",
-        "outputPath": "/home/maxrave/RiderProjects/SignalR-Chat/src/Chat.Web/obj/",
+        "outputPath": "/home/maxrave/Project/SignalR-Chat/src/Chat.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/maxrave/.nuget/NuGet/NuGet.Config"
@@ -100,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/maxrave/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
